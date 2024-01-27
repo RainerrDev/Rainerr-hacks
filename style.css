@@ -1,0 +1,18 @@
+*{
+ background-color: brown;
+
+.Tittel{
+    font-family: 'Permanent Marker', cursive;}
+
+    .Subtittel{
+        font-family: 'Permanent Marker', cursive;}
+
+        .button{
+            background-color: #333333; color: #0af548;
+            height: 100
+    ;
+        }
+
+        .para{
+            font-family: 'Oswald', sans-serif;
+        }
